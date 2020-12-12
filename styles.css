@@ -155,7 +155,7 @@ ul{
     background-image: url('https://i.ibb.co/tBJGPD9/xbox.png');
     background-repeat: no-repeat;
     background-size: cover;
-    background-size: center/cover;
+    background-position: center center;
     margin-bottom: 20px ;
     
 
